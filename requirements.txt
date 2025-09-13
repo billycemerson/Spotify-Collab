@@ -1,0 +1,5 @@
+requests
+python-dotenv
+pandas
+sqlalchemy==1.4.49
+ipython-sql
